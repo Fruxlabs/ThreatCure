@@ -1,5 +1,5 @@
 URL:
-https://fruxlabs.github.io/REScure_revamp/
+https://fruxlabs.github.io/ThreatCure/
 
 
 bg Color (blue) : (011627) #0A080D
