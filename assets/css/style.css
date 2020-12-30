@@ -812,6 +812,10 @@
 # About Us
 --------------------------------------------------------------*/
             
+			.about a {
+                Color: #ff0022;
+            }
+			
             .about .content h3 {
                 font-weight: 600;
                 font-size: 26px;
@@ -1125,7 +1129,7 @@
 --------------------------------------------------------------*/
             
             .cta {
-                background: linear-gradient(rgba(1, 22, 39, 0.9), rgba(1, 22, 39, 0.9)), url("../img/cta-bg.jpg") fixed center center;
+                background: linear-gradient(rgba(10, 8, 13, 0.7), rgba(10, 8, 13, 0.7)), url("../img/cta-bg.jpg") fixed center center;
                 background-size: cover;
                 padding: 120px 0;
             }
@@ -1179,7 +1183,7 @@
             
             @media (max-width: 769px) {
                 .cta {
-                    background: linear-gradient(rgba(1, 22, 39, 0.9), rgba(1, 22, 39, 0.9)), url("../img/cta-bg_small.jpg") fixed center center;
+                    background: linear-gradient(rgba(10, 8, 13, 0.7), rgba(10, 8, 13, 0.7)), url("../img/cta-bg_small.jpg") fixed center center;
                     background-attachment: scroll;
                     background-size: cover;
                 }
