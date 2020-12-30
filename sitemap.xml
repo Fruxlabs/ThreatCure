@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>https://rescure.me/</loc>
+  <lastmod>2020-08-15T20:22:23+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.rescure.me/</loc>
+  <lastmod>2020-08-15T20:22:23+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://rescure.me/index.html</loc>
+  <lastmod>2020-08-15T20:22:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://rescure.me/feeds.html</loc>
+  <lastmod>2020-08-15T20:12:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://rescure.me/disclaimer.html</loc>
+  <lastmod>2020-08-15T20:05:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://rescure.me/rescure_blacklist.txt</loc>
+  <lastmod>2020-08-15T00:00:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://rescure.me/rescure_domain_blacklist.txt</loc>
+  <lastmod>2020-08-15T00:00:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://rescure.me/rescure_malware_hashes.txt</loc>
+  <lastmod>2020-08-15T00:00:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://rescure.me/covid.txt</loc>
+  <lastmod>2020-08-13T06:13:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://rescure.me/malware.html</loc>
+  <lastmod>2020-08-15T20:09:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://rescure.me/malware/maze.txt</loc>
+  <lastmod>2020-08-15T00:00:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://rescure.me/malware/ekans.txt</loc>
+  <lastmod>2020-08-15T00:00:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://rescure.me/malware/ryuk.txt</loc>
+  <lastmod>2020-08-15T00:00:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://rescure.me/malware/clop.txt</loc>
+  <lastmod>2020-08-15T00:01:21+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://rescure.me/malware/sodinokibi.txt</loc>
+  <lastmod>2020-08-15T00:01:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://rescure.me/malware/wastedlocker.txt</loc>
+  <lastmod>2020-08-15T00:01:53+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://rescure.me/malware/netwalker.txt</loc>
+  <lastmod>2020-08-15T00:01:37+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://rescure.me/malware/try2cry.txt</loc>
+  <lastmod>2020-08-15T00:02:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
