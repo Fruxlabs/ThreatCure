@@ -12,7 +12,7 @@
             }
             
             a:hover {
-                color: #73c5eb;
+                color: #FEECF6;
                 text-decoration: none;
             }
             
@@ -530,6 +530,7 @@
                 margin: 10px 30px 0 0;
                 color: #FDFFFC;
                 border: 2px solid;
+				border-color: #FF0022;
             }
             
             #hero .btn-get-started:hover {
@@ -2365,7 +2366,7 @@
             }
             
             #footer .social-links a:hover {
-                color: #FEECF6;
+                color: #FF0022;
             }
             
             #footer .copyright a {
