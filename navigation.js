@@ -11,7 +11,7 @@ document.write('\
                 </ul>\
             </nav>\
             <div class="hidden_menu">\
-                <a href="https://threatcure.com/feeds.html" class="get-back-btn scrollto">\<b>\Contact Us</b>\</a>\
+                <a href="https://threatcure.com/#contactus" class="get-back-btn scrollto">\<b>\Contact Us</b>\</a>\
             </div>\
         </div>\
     </header>');
